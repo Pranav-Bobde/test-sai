@@ -32,6 +32,10 @@ def process_prompt():
     response.headers.set('Content-Disposition', 'attachment', filename='image.png')
     
     return response
-
-if __name__ == '__main__':
+    
+    @app.route('/hello', methods=['GET'])
+    def hello_world():
+    return 'Hello World'
+    
+    if __name__ == '__main__':
     app.run()
