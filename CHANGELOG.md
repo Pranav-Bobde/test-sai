@@ -2,6 +2,17 @@
 
 
 
+## v0.2.0 (2023-08-16)
+
+### Ci
+
+* ci: :wrench: update ci config ([`2f819bf`](https://github.com/Pranav-Bobde/test-sai/commit/2f819bf3ea08031558c296c759dd1ef0432215b5))
+
+### Feature
+
+* feat: :sparkles: add world to app ([`c048d80`](https://github.com/Pranav-Bobde/test-sai/commit/c048d807a4eca60a8b72a904465c048958f548ab))
+
+
 ## v0.1.0 (2023-08-16)
 
 ### Chore
