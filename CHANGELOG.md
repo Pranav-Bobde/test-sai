@@ -2,6 +2,15 @@
 
 
 
+## v0.3.0 (2023-08-16)
+
+### Feature
+
+* feat: :sparkles: add 3rd world ([`87aac07`](https://github.com/Pranav-Bobde/test-sai/commit/87aac0763567f727a9f2e6e9026773fcdfae62d9))
+
+* feat: :sparkles: add another world ([`be21666`](https://github.com/Pranav-Bobde/test-sai/commit/be216663cbf1dab1714f9f983112919967158248))
+
+
 ## v0.2.0 (2023-08-16)
 
 ### Ci
