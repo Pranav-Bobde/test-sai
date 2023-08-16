@@ -2,6 +2,17 @@
 
 
 
+## v0.4.0 (2023-08-16)
+
+### Ci
+
+* ci: :wrench: ci update ([`284c8e1`](https://github.com/Pranav-Bobde/test-sai/commit/284c8e17f816eb4e95308d48f1f1bbd327bc7b56))
+
+### Feature
+
+* feat: :recycle: del world 3 ([`68abf93`](https://github.com/Pranav-Bobde/test-sai/commit/68abf9353429b7a527ffbec7075a32df1d1382e6))
+
+
 ## v0.3.0 (2023-08-16)
 
 ### Feature
