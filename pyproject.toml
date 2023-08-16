@@ -4,3 +4,4 @@ version_variable = [
 ]
 branch = "main"
 upload_to_release = true
+changelog_sections = ["Features", "Bug Fixes"]
