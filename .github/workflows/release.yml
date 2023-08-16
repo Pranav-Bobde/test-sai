@@ -20,6 +20,6 @@ jobs:
       - run: pip install pipenv
       - run: pipenv --python 3
       - run: pipenv install
-      - run: pipenv run semantic-release
+      - run: pipenv run semantic-release -v
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
