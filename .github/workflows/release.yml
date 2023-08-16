@@ -27,3 +27,5 @@ jobs:
         uses: python-semantic-release/python-semantic-release@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          git_committer_name: Pranav-Bobde
+          git_committer_email: bobdep31@gmail.com
