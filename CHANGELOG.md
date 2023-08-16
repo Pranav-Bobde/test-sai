@@ -2,6 +2,17 @@
 
 
 
+## v0.4.1 (2023-08-16)
+
+### Ci
+
+* ci: :wrench: update ci ([`7491294`](https://github.com/Pranav-Bobde/test-sai/commit/749129465a59d4a2bb5ed92407dc93f8984bf9a8))
+
+### Fix
+
+* fix: :bug: fix world 2 ([`86a9582`](https://github.com/Pranav-Bobde/test-sai/commit/86a9582a556b37d390ff0dfff40110a4027eafe7))
+
+
 ## v0.4.0 (2023-08-16)
 
 ### Ci
