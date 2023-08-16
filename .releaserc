@@ -1,4 +1,0 @@
-{
-  "version_variable": "myapp.app.__version__",
-  "upload_to_github": true
-}

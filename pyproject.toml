@@ -1,0 +1,7 @@
+[tool.semantic_release]
+version_variable = [
+    "app.py:__version__",
+    "pyproject.toml:version"
+]
+branch = "main"
+upload_to_release = true
