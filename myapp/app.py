@@ -1,7 +1,8 @@
 # setup a flask app with / endpoint
 
-from flask import Flask, request, jsonify
 import json
+
+from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
